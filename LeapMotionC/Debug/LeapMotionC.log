@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Medias\Desktop\LeapMotionC\LeapMotionC\main.c(18,1): warning C4005: "WINVER": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(238): message : zobacz poprzednią definicję „WINVER”
+  LeapMotionC.vcxproj -> C:\Users\Medias\Desktop\LeapMotionC\Debug\LeapMotionC.exe
